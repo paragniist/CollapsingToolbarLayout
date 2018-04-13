@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CollapsingToolbarLayout</string>
+    <string name="new_york_city">New York City</string>
+    <string name="text_one">Text One</string>
+    <string name="text_2">text 2</string>
+    <string name="text_3">text 3</string>
+    <string name="text_4">text 4</string>
+    <string name="text_5">text 5</string>
+    <string name="text_6">text 6</string>
+    <string name="text_7">text 7</string>
+</resources>
